@@ -13,20 +13,25 @@ class Entry
         introduce.Introduce("Mosh");
 
 
-        var customer = new Customer();
+        //var customer = new Customer();
 
-        customer.Name = "Midax";
+        //customer.Name = "Midax";
 
-        var order = new Orders();
-        customer.Orders.Add(order);
+        //var order = new Orders();
+        //customer.Orders.Add(order);
 
-        foreach(Orders val in customer.Orders)
-        {
-            Console.WriteLine(val);
-        }
+        //foreach(Orders val in customer.Orders)
+        //{
+        //    Console.WriteLine(val);
+        //}
 
-        Console.WriteLine(customer.Name);
+        //Console.WriteLine(customer.Name);
         //Console.WriteLine("Our customer name is {0} and his id is ID-0{1}", customer.Name, customer.Id);
+
+        var customer = new CustomerInfo();
+
+        customer.SetBirthDate(new DateTime(1997, 1, 3));
+        Console.WriteLine(customer.GetBirthDate());   
     }
 }
 

@@ -13,9 +13,12 @@ class Entry
         introduce.Introduce("Mosh");
 
 
-        var customer = new Customer("Merit", 1);
+        var customer = new Customer();
 
-        Console.WriteLine("Our customer name is {0} and his id is ID-0{1}", customer.Name, customer.Id);
+        customer.Name = "Midax";
+
+        Console.WriteLine(customer.Name);
+        //Console.WriteLine("Our customer name is {0} and his id is ID-0{1}", customer.Name, customer.Id);
     }
 }
 

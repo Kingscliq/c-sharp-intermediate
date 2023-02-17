@@ -4,7 +4,7 @@ namespace Intermediate.Classes
 	public class Customer
 	{
 
-        public String Name;
+        public String Name = "Ezenwa";
         public int Id;
 
 		public Customer()

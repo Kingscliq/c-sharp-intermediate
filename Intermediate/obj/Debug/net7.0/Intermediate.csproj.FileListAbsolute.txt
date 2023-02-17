@@ -1,0 +1,15 @@
+/Users/crowdforce/Projects/Intermediate/Intermediate/bin/Debug/net7.0/Intermediate
+/Users/crowdforce/Projects/Intermediate/Intermediate/bin/Debug/net7.0/Intermediate.deps.json
+/Users/crowdforce/Projects/Intermediate/Intermediate/bin/Debug/net7.0/Intermediate.runtimeconfig.json
+/Users/crowdforce/Projects/Intermediate/Intermediate/bin/Debug/net7.0/Intermediate.dll
+/Users/crowdforce/Projects/Intermediate/Intermediate/bin/Debug/net7.0/Intermediate.pdb
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/Intermediate.csproj.AssemblyReference.cache
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/Intermediate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/Intermediate.AssemblyInfoInputs.cache
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/Intermediate.AssemblyInfo.cs
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/Intermediate.csproj.CoreCompileInputs.cache
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/Intermediate.dll
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/refint/Intermediate.dll
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/Intermediate.pdb
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/Intermediate.genruntimeconfig.cache
+/Users/crowdforce/Projects/Intermediate/Intermediate/obj/Debug/net7.0/ref/Intermediate.dll

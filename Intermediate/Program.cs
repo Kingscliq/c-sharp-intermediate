@@ -36,6 +36,13 @@ class Entry
         var person = new Person();
 
         person.BirthDate = new DateTime(1998, 08, 07);
+        var cookie = new HttpCookie();
+
+        cookie["name"] = "Kingsley Ezenwa";
+
+        Console.WriteLine("My Cookie name value is: {0}", cookie["name"]);
+
+
 
         Console.WriteLine(person.Age);
         

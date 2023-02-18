@@ -31,7 +31,14 @@ class Entry
         var customer = new CustomerInfo();
 
         customer.SetBirthDate(new DateTime(1997, 1, 3));
-        Console.WriteLine(customer.GetBirthDate());   
+        Console.WriteLine(customer.GetBirthDate());
+
+        var person = new Person();
+
+        person.BirthDate = new DateTime(1998, 08, 07);
+
+        Console.WriteLine(person.Age);
+        
     }
 }
 

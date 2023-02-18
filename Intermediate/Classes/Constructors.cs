@@ -1,9 +1,9 @@
 ﻿using System;
+
 namespace Intermediate.Classes
 {
 	public class Customer
 	{
-
         public String Name = "Ezenwa";
         public int Id;
         public List<Orders> Orders;

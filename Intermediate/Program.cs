@@ -49,6 +49,16 @@ class Entry
 
         var text = new Text();
         Text.AddHyperLink("http://uml.com/u");
+
+        var dbMigrator = new DbMigrator(new Logger());
+
+        var logger = new Logger();
+
+        var installer = new Installer(logger);
+
+
+        dbMigrator.Migrate();
+        installer.Install();
         
     }
 }

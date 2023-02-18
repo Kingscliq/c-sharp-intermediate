@@ -6,7 +6,7 @@ namespace Intermediate.Classes
 		public int FontSize { get; set; }
 		public int FontFamily { get; set; }
 
-		public void AddHyperLink(string url)
+		public static void AddHyperLink(string url)
 		{
 			Console.WriteLine("HyperLink was Added");
 		}

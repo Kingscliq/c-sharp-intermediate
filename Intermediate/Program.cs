@@ -45,6 +45,10 @@ class Entry
 
 
         Console.WriteLine(person.Age);
+
+
+        var text = new Text();
+        Text.AddHyperLink("http://uml.com/u");
         
     }
 }

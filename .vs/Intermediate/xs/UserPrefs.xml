@@ -1,16 +1,20 @@
 ﻿<Properties StartupConfiguration="{C702EAB0-F25B-470C-AEB3-17BDE83A2E99}|Default">
-  <MonoDevelop.Ide.ItemProperties.Intermediate PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Intermediate/Classes/Constructors.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Intermediate/Program.cs">
     <Files>
-      <File FileName="Intermediate/Program.cs" Line="14" Column="1" />
-      <File FileName="../HelloKings/HelloKings/Entry.cs" Line="7" Column="30" />
+      <File FileName="Intermediate/Program.cs" Line="65" Column="1" />
+      <File FileName="../HelloKings/HelloKings/Entry.cs" />
       <File FileName="Intermediate/Classes/Intro.cs" Line="9" Column="10" />
-      <File FileName="Intermediate/Classes/Constructors.cs" Line="16" Column="4" />
-      <File FileName="Intermediate/Classes/Orders.cs" Line="7" Column="2" />
+      <File FileName="Intermediate/Classes/Constructors.cs" Line="10" Column="7" />
+      <File FileName="Intermediate/Classes/Orders.cs" Line="7" Column="1" />
+      <File FileName="Intermediate/Classes/AgeSetter.cs" Line="21" Column="5" />
+      <File FileName="Intermediate/Classes/CsutomerInfo.cs" Line="1" Column="1" />
+      <File FileName="Intermediate/Classes/HttpCookie.cs" Line="12" Column="1" />
+      <File FileName="Intermediate/Classes/Inheritance.cs" Line="20" Column="1" />
+      <File FileName="Intermediate/Classes/Text.cs" Line="13" Column="1" />
+      <File FileName="Intermediate/Classes/Logger.cs" Line="8" Column="4" />
+      <File FileName="Intermediate/Classes/DbMigrator.cs" Line="11" Column="21" />
+      <File FileName="Intermediate/Classes/Installer.cs" Line="11" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -25,5 +29,9 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Intermediate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>

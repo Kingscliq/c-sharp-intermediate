@@ -6,7 +6,6 @@ namespace Intermediate.Classes
 		public int Id { get; set;}
 		public string? Name { get; set; }
 
-
 		public void GetCustomerRating()
 		{
 		   var rating = this.CalculateRating();
@@ -21,7 +20,7 @@ namespace Intermediate.Classes
 			}
 		}
 
-		private int CalculateRating()
+		public int CalculateRating()
 		{
 			return 0;
 		}

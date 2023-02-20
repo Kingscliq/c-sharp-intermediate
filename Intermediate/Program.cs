@@ -28,37 +28,42 @@ class Entry
         //Console.WriteLine(customer.Name);
         //Console.WriteLine("Our customer name is {0} and his id is ID-0{1}", customer.Name, customer.Id);
 
-        var customer = new CustomerInfo();
+        //var customer = new CustomerInfo();
 
-        customer.SetBirthDate(new DateTime(1997, 1, 3));
-        Console.WriteLine(customer.GetBirthDate());
+        //customer.SetBirthDate(new DateTime(1997, 1, 3));
+        //Console.WriteLine(customer.GetBirthDate());
 
-        var person = new Person();
+        //var person = new Person();
 
-        person.BirthDate = new DateTime(1998, 08, 07);
-        var cookie = new HttpCookie();
+        //person.BirthDate = new DateTime(1998, 08, 07);
+        //var cookie = new HttpCookie();
 
-        cookie["name"] = "Kingsley Ezenwa";
+        //cookie["name"] = "Kingsley Ezenwa";
 
-        Console.WriteLine("My Cookie name value is: {0}", cookie["name"]);
-
-
-
-        Console.WriteLine(person.Age);
+        //Console.WriteLine("My Cookie name value is: {0}", cookie["name"]);
 
 
-        var text = new Text();
-        Text.AddHyperLink("http://uml.com/u");
 
-        var dbMigrator = new DbMigrator(new Logger());
-
-        var logger = new Logger();
-
-        var installer = new Installer(logger);
+        //Console.WriteLine(person.Age);
 
 
-        dbMigrator.Migrate();
-        installer.Install();
+        //var text = new Text();
+        //Text.AddHyperLink("http://uml.com/u");
+
+        //var dbMigrator = new DbMigrator(new Logger());
+
+        //var logger = new Logger();
+
+        //var installer = new Installer(logger);
+
+        //dbMigrator.Migrate();
+        //installer.Install();
+
+
+        var customer = new Customer();
+        Boxing.CreateList();
+
+       
         
     }
 }

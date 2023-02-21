@@ -63,6 +63,18 @@ class Entry
         var customer = new Customer();
         Boxing.CreateList();
 
+        
+
+        var canvas = new Canvas();
+
+        var shape = new List<Shape>();
+
+        shape.Add(new Cirlce());
+        shape.Add(new Rectangle());
+
+        canvas.DrawShapes(shape);
+
+        
        
         
     }

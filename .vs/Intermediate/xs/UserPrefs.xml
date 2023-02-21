@@ -1,27 +1,24 @@
 ﻿<Properties StartupConfiguration="{C702EAB0-F25B-470C-AEB3-17BDE83A2E99}|Default">
-  <MonoDevelop.Ide.ItemProperties.Intermediate PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Intermediate/Classes/GoldCustomer.cs">
+  <MonoDevelop.Ide.ItemProperties.Intermediate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Intermediate/Program.cs">
     <Files>
-      <File FileName="Intermediate/Program.cs" Line="64" Column="18" />
+      <File FileName="Intermediate/Program.cs" Line="67" Column="9" />
       <File FileName="../HelloKings/HelloKings/Entry.cs" />
       <File FileName="Intermediate/Classes/Intro.cs" />
-      <File FileName="Intermediate/Classes/Constructors.cs" Line="12" Column="20" />
+      <File FileName="Intermediate/Classes/Constructors.cs" />
       <File FileName="Intermediate/Classes/Orders.cs" />
       <File FileName="Intermediate/Classes/AgeSetter.cs" />
-      <File FileName="Intermediate/Classes/CsutomerInfo.cs" Line="1" Column="1" />
+      <File FileName="Intermediate/Classes/CsutomerInfo.cs" />
       <File FileName="Intermediate/Classes/HttpCookie.cs" />
       <File FileName="Intermediate/Classes/Text.cs" />
       <File FileName="Intermediate/Classes/Logger.cs" />
       <File FileName="Intermediate/Classes/DbMigrator.cs" />
       <File FileName="Intermediate/Classes/Installer.cs" />
-      <File FileName="Intermediate/Classes/Customers.cs" Line="21" Column="4" />
+      <File FileName="Intermediate/Classes/Customers.cs" />
       <File FileName="Intermediate/Classes/GoldCustomer.cs" Line="14" Column="3" />
+      <File FileName="Intermediate/Classes/Boxing.cs" Line="14" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -35,4 +32,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

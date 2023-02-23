@@ -3,15 +3,21 @@ namespace Intermediate.Database
 {
 	public abstract class DbConnector
 	{
-		private  string _connectionString { get; set; }
-		private readonly TimeSpan _timeSpan;
+		protected string _connectionString { get; set; }
+		public readonly TimeSpan _timeSpan;
 
 		public DbConnector(String connectionString)
 		{
 			_connectionString = connectionString;
 		}
 
-		public abstract void CloseConnection();
+        public DbConnector(String connectionString, TimeSpan timeSpan)
+			:this(connectionString)
+        {
+			this._timeSpan = timeSpan;
+        }
+
+        public abstract void CloseConnection();
 		public abstract void OpenConnection();
 	}
 }

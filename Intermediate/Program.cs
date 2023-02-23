@@ -1,4 +1,5 @@
 ﻿using Intermediate.Classes;
+using Intermediate.Database;
 using Intermediate;
 
 namespace Intermediate;
@@ -60,23 +61,30 @@ class Entry
         //installer.Install();
 
 
-        var customer = new Customer();
-        Boxing.CreateList();
+        //var customer = new Customer();
+        //Boxing.CreateList();
 
-        
 
-        var canvas = new Canvas();
 
-        var shape = new List<Shape>();
+        //var canvas = new Canvas();
 
-        shape.Add(new Cirlce());
-        shape.Add(new Rectangle());
+        //var shape = new List<Shape>();
 
-        canvas.DrawShapes(shape);
+        //shape.Add(new Cirlce());
+        //shape.Add(new Rectangle());
 
-        
+        //canvas.DrawShapes(shape);
+
+
+        var SqlConnector = new SqlConnector("jvsdg%$82378979990727");
+
+        SqlConnector.OpenConnection();
+
+        var oracleConnector = new OracleConnector("jvsdg%$82378979990727");
+
+        oracleConnector.OpenConnection();
+
        
-        
     }
 }
 

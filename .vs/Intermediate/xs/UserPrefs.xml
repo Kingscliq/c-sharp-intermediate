@@ -1,9 +1,14 @@
 ﻿<Properties StartupConfiguration="{C702EAB0-F25B-470C-AEB3-17BDE83A2E99}|Default">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Intermediate PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Intermediate/Program.cs">
     <Files>
-      <File FileName="Intermediate/Program.cs" Line="72" Column="33" />
+      <File FileName="Intermediate/Program.cs" Line="76" Column="34" />
       <File FileName="../HelloKings/HelloKings/Entry.cs" />
       <File FileName="Intermediate/Classes/Intro.cs" />
       <File FileName="Intermediate/Classes/Constructors.cs" />
@@ -11,31 +16,29 @@
       <File FileName="Intermediate/Classes/AgeSetter.cs" />
       <File FileName="Intermediate/Classes/CsutomerInfo.cs" />
       <File FileName="Intermediate/Classes/HttpCookie.cs" />
-      <File FileName="Intermediate/Classes/Text.cs" Line="1" Column="1" />
+      <File FileName="Intermediate/Classes/Text.cs" />
       <File FileName="Intermediate/Classes/Logger.cs" />
       <File FileName="Intermediate/Classes/DbMigrator.cs" />
       <File FileName="Intermediate/Classes/Installer.cs" />
       <File FileName="Intermediate/Classes/Customers.cs" />
       <File FileName="Intermediate/Classes/GoldCustomer.cs" />
       <File FileName="Intermediate/Classes/Boxing.cs" />
-      <File FileName="Intermediate/Classes/Shape.cs" Line="11" Column="28" />
-      <File FileName="Intermediate/Classes/DrawShapes.cs" Line="11" Column="5" />
+      <File FileName="Intermediate/Classes/Shape.cs" />
+      <File FileName="Intermediate/Classes/DrawShapes.cs" />
+      <File FileName="Intermediate/Database/DbConnector.cs" Line="13" Column="1" />
+      <File FileName="Intermediate/Database/SqlConnector.cs" Line="7" Column="10" />
+      <File FileName="Intermediate/Database/OracleConnector.cs" Line="10" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="Intermediate" expanded="True">
             <Node name="Intermediate" expanded="True">
-              <Node name="Classes" expanded="True" />
+              <Node name="Database" expanded="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Intermediate PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

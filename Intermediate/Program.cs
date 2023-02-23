@@ -77,14 +77,11 @@ class Entry
 
 
         var SqlConnector = new SqlConnector("jvsdg%$82378979990727");
-
-        SqlConnector.OpenConnection();
-
         var oracleConnector = new OracleConnector("jvsdg%$82378979990727");
 
+        SqlConnector.OpenConnection();
         oracleConnector.OpenConnection();
 
-       
     }
 }
 

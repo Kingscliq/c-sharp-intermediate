@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{C702EAB0-F25B-470C-AEB3-17BDE83A2E99}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Intermediate PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Intermediate/Program.cs">
     <Files>
-      <File FileName="Intermediate/Program.cs" Line="67" Column="9" />
+      <File FileName="Intermediate/Program.cs" Line="72" Column="33" />
       <File FileName="../HelloKings/HelloKings/Entry.cs" />
       <File FileName="Intermediate/Classes/Intro.cs" />
       <File FileName="Intermediate/Classes/Constructors.cs" />
@@ -12,13 +11,15 @@
       <File FileName="Intermediate/Classes/AgeSetter.cs" />
       <File FileName="Intermediate/Classes/CsutomerInfo.cs" />
       <File FileName="Intermediate/Classes/HttpCookie.cs" />
-      <File FileName="Intermediate/Classes/Text.cs" />
+      <File FileName="Intermediate/Classes/Text.cs" Line="1" Column="1" />
       <File FileName="Intermediate/Classes/Logger.cs" />
       <File FileName="Intermediate/Classes/DbMigrator.cs" />
       <File FileName="Intermediate/Classes/Installer.cs" />
       <File FileName="Intermediate/Classes/Customers.cs" />
-      <File FileName="Intermediate/Classes/GoldCustomer.cs" Line="14" Column="3" />
-      <File FileName="Intermediate/Classes/Boxing.cs" Line="14" Column="1" />
+      <File FileName="Intermediate/Classes/GoldCustomer.cs" />
+      <File FileName="Intermediate/Classes/Boxing.cs" />
+      <File FileName="Intermediate/Classes/Shape.cs" Line="11" Column="28" />
+      <File FileName="Intermediate/Classes/DrawShapes.cs" Line="11" Column="5" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -33,6 +34,7 @@
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Intermediate PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
